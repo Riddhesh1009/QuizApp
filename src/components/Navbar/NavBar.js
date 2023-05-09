@@ -6,7 +6,7 @@ function NavBar() {
     return (
         <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
             <Container>
-            <Navbar.Brand href="/"><img alt="TestME" src="https://res.cloudinary.com/kunalbarve/image/upload/v1630391287/Quiz%20app/TestMe_logo_fh2xjs.png" /></Navbar.Brand>
+            <Navbar.Brand href="/"><img alt="TestME" src="/Logo.png" /></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">

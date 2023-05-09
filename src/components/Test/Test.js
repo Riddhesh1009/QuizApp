@@ -218,7 +218,7 @@ function Test() {
         <img
           alt="test"
           className="test-banner-image"
-          src="https://res.cloudinary.com/kunalbarve/image/upload/v1630561482/Quiz%20app/mock_test_masthead_2x_lp7qua.png"
+          src="/Details.png"
         />
       </div>
       <div className="test-parent-container align-items-center mb-4 flex-column flex-lg-row">

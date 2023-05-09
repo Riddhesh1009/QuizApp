@@ -9,25 +9,25 @@ function Home() {
     {
       title: "FULL STACK WEB DEVELOPER",
       variant: "secondary",
-      img: "https://res.cloudinary.com/kunalbarve/image/upload/v1630472982/Quiz%20app/full-mern-stack-illustration_2x_eu9bpe.png",
+      img: "/card1.png",
       testLink: "/test/fullStackWebDev",
     },
     {
       title: "PRODUCT BASED COMPANY MOCK TEST",
       variant: "info",
-      img: "https://res.cloudinary.com/kunalbarve/image/upload/v1630474055/Quiz%20app/product_based_company_illustration_2x_hjb0mh.png",
+      img: "/card2.png",
       testLink: "/test/prodBased",
     },
     {
       title: "SERVICE BASED COMPANY MOCK TEST",
       variant: "primary",
-      img: "https://res.cloudinary.com/kunalbarve/image/upload/v1630474055/Quiz%20app/service_based_company_illustration_2x_i273ny.png",
+      img: "/card3.png",
       testLink: "/test/serviceBased",
     },
     {
       title: "GENERAL AWARENESS TEST 2021",
       variant: "warning",
-      img: "https://res.cloudinary.com/kunalbarve/image/upload/v1630474055/Quiz%20app/general_awarness_2x_bz2nze.png",
+      img: "/card4.png",
       testLink: "/test/generalAwareness",
     },
   ];
@@ -59,7 +59,7 @@ function Home() {
             <img
               alt=""
               className="master-head-image"
-              src="https://res.cloudinary.com/kunalbarve/image/upload/v1631509578/Quiz%20app/masthead_image_2x_lok5nl.png"
+              src="/home1.png"
             />
           </div>
         </div>
@@ -68,7 +68,7 @@ function Home() {
             <div className="home-test-info-img-conatianer">
               <img
                 alt=""
-                src="https://res.cloudinary.com/kunalbarve/image/upload/v1631509726/Quiz%20app/people_img_2x_h9bi1s.png"
+                src="/home2.png"
                 className="home-test-info-img"
               />
             </div>
